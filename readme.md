@@ -8,8 +8,8 @@
 
 This project was a collaborative effort built by:
 
-* **[Your Name]** - *Lead Developer*
-* **[Mentor Name]** - *Project Mentor & Collaborator*
+* **[sanjay kumar s]** - *Lead Developer*
+* **[Hem raj mv]** - *Project Mentor & Collaborator*
 
 ---
 
